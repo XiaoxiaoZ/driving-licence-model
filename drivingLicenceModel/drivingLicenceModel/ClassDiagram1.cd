@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="drivingLicenceModel.AdvisorySign" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdvisorySign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Bus" Collapsed="true">
+    <Position X="50" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Carriageway">
+    <Position X="61.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Carriageway.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Lanes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="drivingLicenceModel.ClassIEUMoped" Collapsed="true">
+    <Position X="43.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassIEUMoped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.ClassII" Collapsed="true">
+    <Position X="45.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassII.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Cycle" Collapsed="true">
+    <Position X="56.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Cyclist" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cyclist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.DirectionSign" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DirectionSign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Form1" Collapsed="true">
+    <Position X="72.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.GiveWaySign" Collapsed="true">
+    <Position X="20.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiveWaySign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.GoodsVehicle" Collapsed="true">
+    <Position X="52.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoodsVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.HeavyMotorcycle" Collapsed="true">
+    <Position X="41" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeavyMotorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.HorseDrawnVehicle" Collapsed="true">
+    <Position X="59" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HorseDrawnVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Lane">
+    <Position X="65.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.LightMotorcycle" Collapsed="true">
+    <Position X="38.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightMotorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.LongitudinalMarking" Collapsed="true">
+    <Position X="25.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LongitudinalMarking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MandatorySign" Collapsed="true">
+    <Position X="23" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MandatorySign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Moped" Collapsed="true">
+    <Position X="44.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MopedRider" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MopedRider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MotorCarCategoryVehicle" Collapsed="true">
+    <Position X="50" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MotorCarCategoryVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Motorcycle" Collapsed="true">
+    <Position X="39.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Motorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MotorisedEquipment" Collapsed="true">
+    <Position X="34.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MotorisedEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MotorPoweredVehicle" Collapsed="true">
+    <Position X="44.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MotorPoweredVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.MotorVehicle" Collapsed="true">
+    <Position X="45.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MotorVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.OffRoadMotorVehicle" Collapsed="true">
+    <Position X="54.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OffRoadMotorVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.OtherMarking" Collapsed="true">
+    <Position X="27.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OtherMarking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Pedestrian" Collapsed="true">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pedestrian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.PrivateCar" Collapsed="true">
+    <Position X="47.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrivateCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Program" Collapsed="true">
+    <Position X="74.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.ProhibitorySign" Collapsed="true">
+    <Position X="16.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProhibitorySign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.ProtectedRoadUser" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProtectedRoadUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Road">
+    <Position X="68" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIgAAwAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Road.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Carriageways" />
+      <Property Name="RoadMarkings" />
+      <Property Name="TrafficSigns" />
+      <Property Name="Verges" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="drivingLicenceModel.RoadMarking">
+    <Position X="27.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadMarking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.RoadUser">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="drivingLicenceModel.SupplementaryPlate" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupplementaryPlate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.TowedVehicle" Collapsed="true">
+    <Position X="32" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TowedVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Tractor" Collapsed="true">
+    <Position X="36.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Traffic">
+    <Position X="66.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Traffic.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="visulizations" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="drivingLicenceModel.TrafficSign">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrafficSign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.TransverseMarking" Collapsed="true">
+    <Position X="29.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransverseMarking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.UnprotectedRoadUser" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnprotectedRoadUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Vehicles">
+    <Position X="45.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehicles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Verge">
+    <Position X="70.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Verge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.WarningSign" Collapsed="true">
+    <Position X="18.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WarningSign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Properties.Resources" Collapsed="true">
+    <Position X="72.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Properties.Settings" Collapsed="true">
+    <Position X="74.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drivingLicenceModel.Visulization">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visulization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="drivingLicenceModel.DefensiveDriving">
+    <Position X="72.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefensiveDriving.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="drivingLicenceModel.TownDriving">
+    <Position X="71" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TownDriving.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

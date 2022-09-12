@@ -14,5 +14,10 @@ namespace drivingLicenceModel
             {
             }
         }
+
+        public override void Draw()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

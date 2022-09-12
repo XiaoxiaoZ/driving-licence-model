@@ -7,5 +7,9 @@ namespace drivingLicenceModel
 {
     public class Lane : Visulization
     {
+        public override void Draw()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
